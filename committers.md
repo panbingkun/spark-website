@@ -41,7 +41,6 @@ navigation:
 |Yin Huai|Databricks|
 |Shane Huang|Intel|
 |Dongjoon Hyun|Apple|
-|Bingkun Pan|Baidu|
 |Kazuaki Ishizaki|IBM|
 |Xingbo Jiang|Databricks|
 |Yikun Jiang|Huawei|
@@ -67,6 +66,7 @@ navigation:
 |Andrew Or|Facebook|
 |Kay Ousterhout|LightStep|
 |Sean Owen|Databricks|
+|Bingkun Pan|Baidu|
 |Tejas Patil|Meta|
 |Nick Pentreath|Automattic|
 |Attila Zsolt Piros|Cloudera|
