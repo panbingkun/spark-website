@@ -41,6 +41,7 @@ navigation:
 |Yin Huai|Databricks|
 |Shane Huang|Intel|
 |Dongjoon Hyun|Apple|
+|Bingkun Pan|Baidu|
 |Kazuaki Ishizaki|IBM|
 |Xingbo Jiang|Databricks|
 |Yikun Jiang|Huawei|
